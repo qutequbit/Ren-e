@@ -62,7 +62,7 @@ const Cart = () => {
                 })}
             </div>
 
-            {/* <div className='flex justify-end my-20'>
+            <div className='flex justify-end my-20'>
                 <div className='w-full sm:w-[450px]'>
                     <CartTotal />
                     <div className='w-full text-end'>
@@ -70,7 +70,7 @@ const Cart = () => {
                     </div>
                 </div>
 
-            </div> */}
+            </div>
 
         </div>
     )
